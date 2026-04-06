@@ -13,3 +13,9 @@ DURATION: 12 WEEKS
 MENTOR: NEELA SANTOSH
 
 ## A SIMPLE AND INTERACTIVE QUIZ APPLICATION THAT TESTS USERS WITH MULTIPLE-CHOICE QUESTIONS. PROVIDES INSTANT FEEDBACK AND SCORE TRACKING FOR AN ENAGAGING LEARNING EXPERIENCE.
+
+# OUTPUT:
+
+<img width="1916" height="1197" alt="Image" src="https://github.com/user-attachments/assets/f408891a-a8ca-4a4b-b6e5-1f2431ba447f" />
+<img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/f1b7c206-3bde-4624-be1f-d25832625cb7" />
+<img width="1910" height="1199" alt="Image" src="https://github.com/user-attachments/assets/8b455bdd-a404-4a75-8d8b-4b903a6766c9" />
